@@ -1,0 +1,23 @@
+# Временные файлы и системные
+*.tmp
+*.temp
+*.log
+*.cache
+.DS_Store
+Thumbs.db
+
+# Папки зависимостей и сборки
+node_modules/
+vendor/
+bin/
+obj/
+build/
+dist/
+__pycache__/
+*.pyc
+*.class
+
+# Файлы окружения и настроек
+.env
+*.key
+*.cert
